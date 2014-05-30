@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="label" attr.type="string" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="SINVNS34" />
+    <node id="SPORDS15" />
+    <node id="CBOEK203" />
+    <node id="BLECOURTNB0144" />
+    <node id="THM00364" />
+    <node id="SINVS051" />
+    <node id="TINNEV203" />
+    <node id="CBOEK182" />
+    <node id="THM00355" />
+    <node id="BJANSS069" />
+    <node id="SAMSTE45" />
+    <node id="BOEKV032" />
+    <node id="TINNEV251" />
+    <node id="BOEKV031" />
+    <node id="VOLKS012" />
+    <node id="SINVS002" />
+    <node id="BLECOURTNB0138" />
+    <edge source="SINVNS34" target="BOEKV031">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SINVNS34" target="BLECOURTNB0144">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SINVNS34" target="THM00364">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVNS34" target="SINVS051">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SINVNS34" target="TINNEV203">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVNS34" target="CBOEK182">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SINVNS34" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVNS34" target="SAMSTE45">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SINVNS34" target="BOEKV032">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SINVNS34" target="SPORDS15">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SINVNS34" target="BLECOURTNB0138">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SPORDS15" target="BLECOURTNB0144">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SPORDS15" target="THM00364">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SPORDS15" target="SINVS051">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SPORDS15" target="TINNEV203">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SPORDS15" target="CBOEK182">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SPORDS15" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SPORDS15" target="SAMSTE45">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SPORDS15" target="BOEKV032">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SPORDS15" target="BOEKV031">
+      <data key="d0">J2071</data>
+    </edge>
+    <edge source="SPORDS15" target="BLECOURTNB0138">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="CBOEK203" target="TINNEV251">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="CBOEK203" target="BLECOURTNB0138">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="CBOEK203" target="BJANSS069">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="BOEKV031">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="VOLKS012">
+      <data key="d0">D1412.1</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="THM00364">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="SINVS051">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="TINNEV203">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="CBOEK182">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="SAMSTE45">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="BOEKV032">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="SINVS002">
+      <data key="d0">D1412.1</data>
+    </edge>
+    <edge source="BLECOURTNB0144" target="BLECOURTNB0138">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="THM00364" target="BOEKV031">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="SINVS051">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="TINNEV203">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="CBOEK182">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="SAMSTE45">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="BOEKV032">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00364" target="BLECOURTNB0138">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVS051" target="BJANSS069">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="SINVS051" target="TINNEV203">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVS051" target="CBOEK182">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="SINVS051" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="SINVS051" target="SAMSTE45">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SINVS051" target="BOEKV032">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SINVS051" target="TINNEV251">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="SINVS051" target="BOEKV031">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="SINVS051" target="SINVS002">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="SINVS051" target="BLECOURTNB0138">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="TINNEV203" target="BOEKV031">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="TINNEV203" target="CBOEK182">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="TINNEV203" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="TINNEV203" target="SAMSTE45">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="TINNEV203" target="BOEKV032">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="TINNEV203" target="BLECOURTNB0138">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="CBOEK182" target="THM00355">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="CBOEK182" target="BJANSS069">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="CBOEK182" target="SAMSTE45">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="CBOEK182" target="BOEKV032">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="CBOEK182" target="TINNEV251">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="CBOEK182" target="BOEKV031">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="CBOEK182" target="SINVS002">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="CBOEK182" target="BLECOURTNB0138">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="THM00355" target="BOEKV031">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00355" target="SAMSTE45">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00355" target="BOEKV032">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="THM00355" target="BLECOURTNB0138">
+      <data key="d0">D1413.1</data>
+    </edge>
+    <edge source="BJANSS069" target="TINNEV251">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="BJANSS069" target="BOEKV031">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="BJANSS069" target="SINVS002">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="BJANSS069" target="BLECOURTNB0138">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="SAMSTE45" target="BOEKV032">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SAMSTE45" target="BOEKV031">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="SAMSTE45" target="BLECOURTNB0138">
+      <data key="d0">D1413.5</data>
+    </edge>
+    <edge source="BOEKV032" target="BOEKV031">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="BOEKV032" target="BLECOURTNB0138">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="TINNEV251" target="BOEKV031">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="TINNEV251" target="SINVS002">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="TINNEV251" target="BLECOURTNB0138">
+      <data key="d0">M211</data>
+    </edge>
+    <edge source="BOEKV031" target="SINVS002">
+      <data key="d0">K213</data>
+    </edge>
+    <edge source="BOEKV031" target="BLECOURTNB0138">
+      <data key="d0">Q565</data>
+    </edge>
+    <edge source="VOLKS012" target="SINVS002">
+      <data key="d0">D1412.1</data>
+    </edge>
+    <edge source="SINVS002" target="BLECOURTNB0138">
+      <data key="d0">K213</data>
+    </edge>
+  </graph>
+</graphml>
